@@ -23,3 +23,7 @@ The approach that EVERSANA has presented to the market is proving to be a disrup
 
 ## Recommendations 
 One area where EVERSANA can expand into is to push into large pharma to commercialize drug assets for organizations such as Pfizer, Novartis, Sanofi, etc. The same issues that the smaller pharma organizations need to address are also faced by large pharma.  
+
+## Addendum
+The following link [here](https://www.eversana.com/insights/) presents 100's of papers and case studies spanning Health Economics Outcomes Research, patient discovery, value based contracting, and many others. 
+
