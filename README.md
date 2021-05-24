@@ -19,5 +19,7 @@ One dominant market segment that EVERSANA participates in, is in rare diseases. 
 To address this market segment, EVERSANA has deployed a machine learning solution to discover the undiagnosed rare disease patient.  This machine learning solution processes large patient claims databases to discover patients who exhibit the pattern of a rare disease patient, but are not diagnosed, nor are they on a rare disease therapy.  
 
 ## Results 
+The approach that EVERSANA has presented to the market is proving to be a disruptive force, where pharma and biotech startups are able to accelerate the commercialization of their drug asset via the turn-key solution that EVERSANA provides. 
 
 ## Recommendations 
+One area where EVERSANA can expand into is to push into large pharma to commercialize drug assets for organizations such as Pfizer, Novartis, Sanofi, etc. The same issues that the smaller pharma organizations need to address are also faced by large pharma.  
